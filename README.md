@@ -1,4 +1,4 @@
-# template_webpack2
+# template_webpack
 
 https://webpack.js.org/
 
@@ -13,3 +13,5 @@ Node:
 In npm scripts  --env.production is true
     --env.production=web is web
     --env.production=false is false
+    
+New line.
